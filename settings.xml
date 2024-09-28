@@ -13,12 +13,12 @@
         <server>
             <id>maven-releases</id>
             <username>admin</username>
-            <password>admin123456789</password> <!-- Use encrypted password -->
+            <password>sapna12345</password> <!-- Use encrypted password -->
         </server>
         <server>
             <id>maven-snapshots</id>
             <username>admin</username>
-            <password>admin123456789</password> <!-- Use encrypted password -->
+            <password>sapna12345</password> <!-- Use encrypted password -->
         </server>
     </servers>
 
